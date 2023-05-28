@@ -10,6 +10,7 @@ Git Commands:
 3. git init : used to set git directory(keep track of that directory)
 4. git status : show latest status of commit n all
 5. git add sum.java : add file into staging area
+    git add . : for all files in directory
 6. git commit -m "initial commit" : use to commit the file
     -m : message,  "initial commit" : actual msg 
     eg: -m "sum logic added" etc.
